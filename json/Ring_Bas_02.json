@@ -1,0 +1,15 @@
+{
+  "name": "UniBas Ring02",
+  "description": "Rings of Bas.",
+  "image": "https://raw.githubusercontent.com/l-m-s/UniRing/main/ImageRing/Ring_Bas_02.jpg",
+  "attributes": [
+    {
+      "trait_type": "Name1 big",
+      "value": "Ring2 small Name"
+    },
+    {
+      "trait_type": "Background",
+      "value": "light Green"
+    }
+  ]
+}
